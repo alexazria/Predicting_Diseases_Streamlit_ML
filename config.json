@@ -1,0 +1,9 @@
+   
+{
+    "views":{
+            "heart_interface": "Heart Dataset",
+            "covid_interface": "Covid Dataset",
+            "hvc_interface": "Hvc Dataset",
+            "loader_interface": "General Dataset"
+        }
+    }
